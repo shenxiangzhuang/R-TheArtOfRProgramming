@@ -1,0 +1,7 @@
+gender race pol
+1 M W L
+2 M W L
+3 F A C
+4 M O L
+5 F B L
+6 F B C
