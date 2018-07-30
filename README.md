@@ -18,4 +18,4 @@
 
 ### Reference
 
-[Extra of the book](https://www.oreilly.com/catalog/errataunconfirmed.csp?isbn=9781593273842)
+[Errata of the book](https://www.oreilly.com/catalog/errataunconfirmed.csp?isbn=9781593273842)
